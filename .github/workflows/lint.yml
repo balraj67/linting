@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 jobs:
-  greet:
+  lint:
     runs-on: ubuntu-latest
 
     steps:
